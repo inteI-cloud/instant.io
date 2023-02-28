@@ -22,7 +22,7 @@
     "jszip": "^3.5.0",
     "prettier-bytes": "^1.0.4",
     "pug": "^3.0.0",
-    "rollbar": "^2.19.4",
+    "rollbar": "^2.26.1",
     "simple-get": "^4.0.0",
     "simple-peer": "^9.7.2",
     "throttleit": "^1.0.0",
